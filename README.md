@@ -26,6 +26,8 @@ copy this to easily add more rows:
 |pylogix |https://github.com/dmroeder/pylogix |py lib |For communicating with Allen-Bradley PLCs using Ethernet/IP. |
 
 ### Engineering in high-level languages
+|Name |Link |Type |Description|
+|---|---|---|---|
 |ElectricPy |https://github.com/engineerjoe440/ElectricPy |py lib |"Python Libraries with functions and constants related to electrical engineering." |
 |ElectricalEngineering.jl |https://github.com/christiankral/ElectricalEngineering.jl |julia pkg |"This is a Julia package on electrical engineering based on Unitful and PyPlot." |
 |Modia.jl |https://github.com/ModiaSim/Modia.jl |julia pkg |"Julia package to model and simulate physical systems (electrical, mechanical, thermo-dynamical, etc.) described by differential and algebraic equations." |
