@@ -16,7 +16,7 @@ copy this to easily add more rows:
 
 -->
 
-## SCADA
+## SCADA/Controls/PLCs/Electrical
 |Name |Link |Type |Description|
 |---|---|---|---|
 |pylogix VS pycomm3  |https://www.libhunt.com/compare-pylogix-vs-pycomm3 |comparison |Comparison of pylogix VS pycomm3. Libraries for communicating with Allen Bradley PLCs.|
@@ -25,6 +25,8 @@ copy this to easily add more rows:
 |Inductive Automation Webinars (Ignition) |https://www.inductiveautomation.com/resources/webinar |webinar |"Gain insight on best practices and industry trends from our collection of upcoming and recorded webinars." |
 |Inductive Automation Slideshare (Ignition) |https://www.slideshare.net/InductiveAutomation?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview |ppt slides |Slides from Inductive Automation webinaurs. |
 |Design Like a Pro: Alarm Management (Ignition)  |https://www.slideshare.net/InductiveAutomation/design-like-a-pro-alarm-management-124315589 |ppt slides | SLides from a webinar: "Alarming experts from Inductive Automation will dive into the best practices of alarm management..." |
+|Realpars Youtube Channel |https://www.youtube.com/c/realpars |tutorial |Tutorials on PLC programming, electrical equipment, PID, control panel design and wiring, network protocols. |
+|Open-Source Electrical Engineering Curriculum |https://github.com/Artoriuz/OSEE |course |"...consists of a series of online courses and textbook recommendations that together cover most of the basic Electrical Engineering knowledge, similarly to a bachelor's degree." |
 
 
 ## Data Scraping
