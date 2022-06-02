@@ -18,12 +18,20 @@ copy this to easily add more rows:
 
 ## SCADA/Controls/PLCs/Electrical
 
-### Working with PLCs from other programming languages
+### Working with PLCs from high-level programming languages
 |Name |Link |Type |Description|
 |---|---|---|---|
 |pylogix VS pycomm3  |https://www.libhunt.com/compare-pylogix-vs-pycomm3 |comparison |Comparison of pylogix VS pycomm3. Libraries for communicating with Allen Bradley PLCs.|
 |pycomm3 |https://pypi.org/project/pycomm3/ |py lib |For communicating with Allen-Bradley PLCs using Ethernet/IP. |
 |pylogix |https://github.com/dmroeder/pylogix |py lib |For communicating with Allen-Bradley PLCs using Ethernet/IP. |
+
+### Engineering in high-level languages
+|ElectricPy |https://github.com/engineerjoe440/ElectricPy |py lib |"Python Libraries with functions and constants related to electrical engineering." |
+|ElectricalEngineering.jl |https://github.com/christiankral/ElectricalEngineering.jl |julia pkg |"This is a Julia package on electrical engineering based on Unitful and PyPlot." |
+|Modia.jl |https://github.com/ModiaSim/Modia.jl |julia pkg |"Julia package to model and simulate physical systems (electrical, mechanical, thermo-dynamical, etc.) described by differential and algebraic equations." |
+|ESeriesRounding |https://github.com/KronosTheLate/ESeriesRounding.jl |julia pkg |"This package implements functions to round given values to the nearest E-series value." |
+|WindPowerPlants |https://github.com/christiankral/WindPowerPlants |modelica lib |"...an open source library for the simulation of wind power plants. The library provides models of wind turbines, generators and control. " |
+|PhotoVoltaics |https://github.com/christiankral/PhotoVoltaics |modelica lib |"Modelica library for the simulation of photo voltaic cells and modules" |
 
 ### SCADA
 |Name |Link |Type |Description|
