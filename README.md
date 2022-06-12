@@ -51,7 +51,15 @@ copy this to easily add more rows:
 
 
 
-## Data Scraping
+## Data Science
+
+### Power BI/Power Query/DAX
+|Name |Link |Type |Description|
+|---|---|---|---|
+|Curbal Data Labs |https://www.youtube.com/c/CurbalEN |tutorial |Power Query and DAX tutorials and best practices from Microsoft MVP Ruth Ponzuelo Martinez. |
+
+
+### Data Scraping
 |Name |Link |Type |Description|
 |---|---|---|---|
 |Katana |https://github.com/TebbaaX/Katana |py lib |For automated Google Hacking/Dorking over ToR. **Including finding unsecured PLC web interfaces.** [[tutorial](https://www.kitploit.com/2020/03/katana-python-tool-for-google-hacking.html?m=0)] |
