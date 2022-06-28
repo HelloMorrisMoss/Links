@@ -48,6 +48,7 @@ copy this to easily add more rows:
 |Realpars Youtube Channel |https://www.youtube.com/c/realpars |tutorial |Tutorials on PLC programming, electrical equipment, PID, control panel design and wiring, network protocols. |
 |Open-Source Electrical Engineering Curriculum |https://github.com/Artoriuz/OSEE |course |"...consists of a series of online courses and textbook recommendations that together cover most of the basic Electrical Engineering knowledge, similarly to a bachelor's degree." |
 |Automation Direct Videos |https://www.automationdirect.com/videos/home |Tutorial |Videos from Automation Direct about their hardware (PLC, PID, VFW, etc.) and software. (Some of these videos are showing their age. 480p) |
+|PIDBOT |https://www.jlbcontrols.com/pidbot |module |Intuitive PID tuning dashboard built into Ignition SCADA. |
 
 
 
