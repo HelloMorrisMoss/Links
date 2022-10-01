@@ -35,12 +35,18 @@ copy this to easily add more rows:
 |WindPowerPlants |https://github.com/christiankral/WindPowerPlants |modelica lib |"...an open source library for the simulation of wind power plants. The library provides models of wind turbines, generators and control. " |
 |PhotoVoltaics |https://github.com/christiankral/PhotoVoltaics |modelica lib |"Modelica library for the simulation of photo voltaic cells and modules" |
 
+
+
 ### SCADA
 |Name |Link |Type |Description|
 |---|---|---|---|
 |Inductive Automation Webinars (Ignition) |https://www.inductiveautomation.com/resources/webinar |webinar |"Gain insight on best practices and industry trends from our collection of upcoming and recorded webinars." |
 |Inductive Automation Slideshare (Ignition) |https://www.slideshare.net/InductiveAutomation |ppt slides |Slides from Inductive Automation webinaurs. |
 |Design Like a Pro: Alarm Management (Ignition)  |https://www.slideshare.net/InductiveAutomation/design-like-a-pro-alarm-management-124315589 |ppt slides | SLides from a webinar: "Alarming experts from Inductive Automation will dive into the best practices of alarm management..." |
+|opcua-sub-to-mqtt |https://github.com/AndreasHeine/opcua-sub-to-mqtt |example |(python) "a small example how to forward OPC UA Subscription Notifications to MQTT in a uniform way " |
+|factory-thing |https://github.com/thingspin/factory-thing |repo |(C) "bridge between...OPCUA server...send data using MQTT or TCP" |
+|OPC UA -> MQTT Gateway client |https://github.com/Harha/OPC-UA-to-MQTT-Gateway |repo |(C++) "allow the transfer of OPC UA node value data to a target MQTT broker" |
+|automation-gateway |https://github.com/vogler75/automation-gateway | repo |OPC UA gateway which gives you access to your OPC UA values via MQTT or GraphQL (HTTP) |
 
 ### Electrical/Controls Engineering/PLCs
 |Name |Link |Type |Description|
