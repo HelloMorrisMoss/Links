@@ -47,6 +47,7 @@ copy this to easily add more rows:
 |factory-thing |https://github.com/thingspin/factory-thing |repo |(C) "bridge between...OPCUA server...send data using MQTT or TCP" |
 |OPC UA -> MQTT Gateway client |https://github.com/Harha/OPC-UA-to-MQTT-Gateway |repo |(C++) "allow the transfer of OPC UA node value data to a target MQTT broker" |
 |automation-gateway |https://github.com/vogler75/automation-gateway | repo |OPC UA gateway which gives you access to your OPC UA values via MQTT or GraphQL (HTTP) |
+|embr |https://github.com/mussonindustrial/embr/ | repo |Collection of foss Ignition Perspective charting components, enhanced embedded views, a high speed tag update API, and thermodynamics scripting functions.  |
 
 ### Electrical/Controls Engineering/PLCs
 |Name |Link |Type |Description|
